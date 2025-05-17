@@ -1,0 +1,6 @@
+{
+    "require": {
+        "picqer/php-barcode-generator": "^3.2",
+        "tecnickcom/tcpdf": "^6.9"
+    }
+}

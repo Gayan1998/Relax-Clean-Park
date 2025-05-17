@@ -1,0 +1,29 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore composer generated files
+/composer.phar
+
+# Ignore environment specific files
+.env
+.env.*
+
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Ignore cache and temporary files
+/cache/
+/tmp/
+*.cache
+
+# Ignore user uploaded content (if applicable)
+/uploads/
+
+# Ignore configuration files with sensitive information
+config.php
